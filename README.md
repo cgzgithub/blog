@@ -6,3 +6,5 @@
 
 [实现JavaScript中的call、apply和bind](https://github.com/cgzgithub/blog/issues/5)
 
+[前端性能优化集合](https://github.com/cgzgithub/blog/issues/6)
+
