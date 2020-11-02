@@ -8,3 +8,5 @@
 [前端性能优化集合](https://github.com/cgzgithub/blog/issues/6)
 
 [防止xss和csrf攻击](https://github.com/cgzgithub/blog/issues/7)
+
+[js宏任务macrotask和微任务microtask](https://github.com/cgzgithub/blog/issues/8)
