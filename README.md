@@ -10,3 +10,15 @@
 [防止xss和csrf攻击](https://github.com/cgzgithub/blog/issues/7)
 
 [js宏任务macrotask和微任务microtask](https://github.com/cgzgithub/blog/issues/8)
+
+[js防抖和节流](https://github.com/cgzgithub/blog/issues/9)
+
+[ES6/7中promise和async/await的优缺点分析](https://github.com/cgzgithub/blog/issues/10)
+
+[AMD和CMD](https://github.com/cgzgithub/blog/issues/11)
+
+[css常用伪类选择器和伪元素](https://github.com/cgzgithub/blog/issues/12)
+
+[JavaScript深拷贝，浅拷贝](https://github.com/cgzgithub/blog/issues/13)
+
+[JavaScript判断两对象相等](https://github.com/cgzgithub/blog/issues/14)
